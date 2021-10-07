@@ -1,0 +1,335 @@
+{
+	"label": "Habilidades (Core) - NO USAR",
+	"entries": [
+		{
+			"id": "Accounting",
+			"name": "Contabilidad",
+			"description": ""
+		},
+		{
+			"id": "Acting",
+			"name": "Actuar",
+			"description": ""
+		},
+		{
+			"id": "Air Vehicle Tech",
+			"name": "Air Vehicle Tech",
+			"description": ""
+		},
+		{
+			"id": "Animal Handling",
+			"name": "Animal Handling",
+			"description": ""
+		},
+		{
+			"id": "Archery",
+			"name": "Archery",
+			"description": ""
+		},
+		{
+			"id": "Athletics",
+			"name": "Athletics",
+			"description": ""
+		},
+		{
+			"id": "Autofire",
+			"name": "Autofire",
+			"description": ""
+		},
+		{
+			"id": "Basic Tech",
+			"name": "Basic Tech",
+			"description": ""
+		},
+		{
+			"id": "Brawling",
+			"name": "Brawling",
+			"description": ""
+		},
+		{
+			"id": "Bribery",
+			"name": "Bribery",
+			"description": ""
+		},
+		{
+			"id": "Bureaucracy",
+			"name": "Bureaucracy",
+			"description": ""
+		},
+		{
+			"id": "Business",
+			"name": "Business",
+			"description": ""
+		},
+		{
+			"id": "Composition",
+			"name": "Composition",
+			"description": ""
+		},
+		{
+			"id": "Conceal/Reveal Object",
+			"name": "Conceal/Reveal Object",
+			"description": ""
+		},
+		{
+			"id": "Concentration",
+			"name": "Concentration",
+			"description": ""
+		},
+		{
+			"id": "Contortionist",
+			"name": "Contortionist",
+			"description": ""
+		},
+		{
+			"id": "Conversation",
+			"name": "Conversation",
+			"description": ""
+		},
+		{
+			"id": "Criminology",
+			"name": "Criminology",
+			"description": ""
+		},
+		{
+			"id": "Cryptography",
+			"name": "Cryptography",
+			"description": ""
+		},
+		{
+			"id": "Cybertech",
+			"name": "Cybertech",
+			"description": ""
+		},
+		{
+			"id": "Dance",
+			"name": "Dance",
+			"description": ""
+		},
+		{
+			"id": "Deduction",
+			"name": "Deduction",
+			"description": ""
+		},
+		{
+			"id": "Demolitions",
+			"name": "Demolitions",
+			"description": ""
+		},
+		{
+			"id": "Drive Land Vehicle",
+			"name": "Drive Land Vehicle",
+			"description": ""
+		},
+		{
+			"id": "Education",
+			"name": "Education",
+			"description": ""
+		},
+		{
+			"id": "Electronics/Security Tech",
+			"name": "Electronics/Security Tech",
+			"description": ""
+		},
+		{
+			"id": "Endurance",
+			"name": "Endurance",
+			"description": ""
+		},
+		{
+			"id": "Evasion",
+			"name": "Evasion",
+			"description": ""
+		},
+		{
+			"id": "First Aid",
+			"name": "First Aid",
+			"description": ""
+		},
+		{
+			"id": "Forgery",
+			"name": "Forgery",
+			"description": ""
+		},
+		{
+			"id": "Gamble",
+			"name": "Gamble",
+			"description": ""
+		},
+		{
+			"id": "Handgun",
+			"name": "Handgun",
+			"description": ""
+		},
+		{
+			"id": "Heavy Weapons",
+			"name": "Heavy Weapons",
+			"description": ""
+		},
+		{
+			"id": "Human Perception",
+			"name": "Human Perception",
+			"description": ""
+		},
+		{
+			"id": "Interrogation",
+			"name": "Interrogation",
+			"description": ""
+		},
+		{
+			"id": "Land Vehicle Tech",
+			"name": "Land Vehicle Tech",
+			"description": ""
+		},
+		{
+			"id": "Language (Streetslang)",
+			"name": "Language (Streetslang)",
+			"description": ""
+		},
+		{
+			"id": "Library Search",
+			"name": "Library Search",
+			"description": ""
+		},
+		{
+			"id": "Lip Reading",
+			"name": "Lip Reading",
+			"description": ""
+		},
+		{
+			"id": "Local Expert",
+			"name": "Local Expert",
+			"description": ""
+		},
+		{
+			"id": "Martial Arts",
+			"name": "Martial Arts",
+			"description": ""
+		},
+		{
+			"id": "Melee Weapon",
+			"name": "Melee Weapon",
+			"description": ""
+		},
+		{
+			"id": "Paint/Draw/Sculpt",
+			"name": "Paint/Draw/Sculpt",
+			"description": ""
+		},
+		{
+			"id": "Paramedic",
+			"name": "Paramedic",
+			"description": ""
+		},
+		{
+			"id": "Perception",
+			"name": "Perception",
+			"description": ""
+		},
+		{
+			"id": "Personal Grooming",
+			"name": "Personal Grooming",
+			"description": ""
+		},
+		{
+			"id": "Persuasion",
+			"name": "Persuasion",
+			"description": ""
+		},
+		{
+			"id": "Photography/Film",
+			"name": "Photography/Film",
+			"description": ""
+		},
+		{
+			"id": "Pick Lock",
+			"name": "Pick Lock",
+			"description": ""
+		},
+		{
+			"id": "Pick Pocket",
+			"name": "Pick Pocket",
+			"description": ""
+		},
+		{
+			"id": "Pilot Air Vehicle",
+			"name": "Pilot Air Vehicle",
+			"description": ""
+		},
+		{
+			"id": "Pilot Sea Vehicle",
+			"name": "Pilot Sea Vehicle",
+			"description": ""
+		},
+		{
+			"id": "Play Instrument",
+			"name": "Play Instrument",
+			"description": ""
+		},
+		{
+			"id": "Resist Torture/Drugs",
+			"name": "Resist Torture/Drugs",
+			"description": ""
+		},
+		{
+			"id": "Riding",
+			"name": "Riding",
+			"description": ""
+		},
+		{
+			"id": "Science",
+			"name": "Science",
+			"description": ""
+		},
+		{
+			"id": "Sea Vehicle Tech",
+			"name": "Sea Vehicle Tech",
+			"description": ""
+		},
+		{
+			"id": "Shoulder Arms",
+			"name": "Shoulder Arms",
+			"description": ""
+		},
+		{
+			"id": "Stealth",
+			"name": "Stealth",
+			"description": ""
+		},
+		{
+			"id": "Streetwise",
+			"name": "Streetwise",
+			"description": ""
+		},
+		{
+			"id": "Tactics",
+			"name": "Tactics",
+			"description": ""
+		},
+		{
+			"id": "Tracking",
+			"name": "Tracking",
+			"description": ""
+		},
+		{
+			"id": "Trading",
+			"name": "Trading",
+			"description": ""
+		},
+		{
+			"id": "Wardrobe & Style",
+			"name": "Wardrobe & Style",
+			"description": ""
+		},
+		{
+			"id": "Weaponstech",
+			"name": "Weaponstech",
+			"description": ""
+		},
+		{
+			"id": "Wilderness Survival",
+			"name": "Wilderness Survival",
+			"description": ""
+		}
+	]
+}
