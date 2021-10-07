@@ -18,7 +18,7 @@
   }],
 
 
-  "url": "",
-  "manifest": "",
-  "download": ""
+  "url": "https://github.com/mickypardo/cyberpunk-red-babele-es",
+  "manifest": "https://raw.githubusercontent.com/mickypardo/cyberpunk-red-babele-es/main/module.json",
+  "download": "https://github.com/mickypardo/cyberpunk-red-babele-es/archive/refs/heads/main.zip"
 }
